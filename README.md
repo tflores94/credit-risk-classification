@@ -19,7 +19,7 @@ The loan_status column is our target variable, while the remaining columns repre
 4. Model Training and Evaluation: Several other models were used, like logistic regression and other classification techniques.
 
 # Methods Used:
-Multiple methods were used throughout the analysis. For example, I used a logistic regression model as a baseline classifier. Other models were used to capture more complex patterns in the data.
+I used a logistic regression model as a baseline classifier.
 
 # Results
 - Machine learning model 1: Logistic Regression
